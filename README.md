@@ -1,11 +1,11 @@
 
 <h1 align="center">⚡ 𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥 ⚡</h1>
 
-[![Bot logo](https://telegra.ph/file/b3af720021620b4f88a66.jpg)](https://t.me/TechnoBot_Support)
+[![Bot logo](https://telegra.ph/file/b3af720021620b4f88a66.jpg)](https://t.me/the_circle_king_j)
 
 
 <h6>This is a userbot made for telegram. 
-This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h6>
+This is the one and only official TechnoBot💖 Userbot made by @KAARTIK_NISHAD. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h6>
 
 [![](https://img.shields.io/badge/TECHNOBOT-v1.1-blue)](#)
 [![Stars](https://img.shields.io/github/stars/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=yellow)](https://github.com/TECHNOBOT-OP/TECHNOBOT/stargazers)
@@ -27,8 +27,8 @@ This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. D
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/TechnoBot_Support)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/TechnoBot_Updates)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/the_circle_king_j)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/the_circle_king_j)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 
